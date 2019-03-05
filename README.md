@@ -1,3 +1,6 @@
+CBSD RESTFull API sample in golang
+
+
 Init:
 
 set GOPATH
